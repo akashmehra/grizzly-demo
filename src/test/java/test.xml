@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <username>Akash Mehra</username>
+    <firstname>Akash</firstname>
+    <lastname>Mehra</lastname>
+    <location>
+      <city>Seattle</city>
+      <state>WA</state>
+      <country>USA</country>
+    </location>
+  </user>
+  <user>
+    <username>Divyesh Mehra</username>
+    <firstname>Divyesh</firstname>
+    <lastname>Mehra</lastname>
+    <location>
+      <city>Seattle</city>
+      <state>WA</state>
+      <country>USA</country>
+    </location>
+  </user>
+  <user>
+    <username>Pranav Kapoor</username>
+    <firstname>Pranav</firstname>
+    <lastname>Kapoor</lastname>
+    <location>
+      <city>Seattle</city>
+      <state>WA</state>
+      <country>USA</country>
+    </location>
+  </user>
+</users>
