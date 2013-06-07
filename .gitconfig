@@ -1,0 +1,19 @@
+[user]
+	name = Akash Mehra
+	email = mehra.akash@gmail.com
+[color]
+	ui = auto
+[core]
+  editor = vim
+  pager = less -r
+  excludesfile = ~/.gitignore
+[alias]
+	lgd = log --graph --all --pretty=format:'%C(yellow)%h%C(blue) %s%Cred- %an, %ar%C(cyan) %d %Creset' --abbrev-commit 
+  lg2 = log --graph --all --format=format:'%C(bold yellow)%h%C(reset) - %C(bold blue)%aD%C(reset) %C(bold green) %an, %ar%C(bold cyan) %d%C(reset)%n''%C(black)%s%C(reset)' --abbrev-commit
+  cm = !git commit -m
+  c = !git commit
+  s = !git status
+  b = !git branch
+  co = !git checkout
+  unstage = !git reset HEAD --
+
