@@ -1,10 +1,11 @@
-package com.ironman.entity;
+package com.ironman.model;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.List;
 
+import com.ironman.entity.MetaDataEntity;
 import com.ironman.exceptions.BackendConnectionException;
 import com.ironman.exceptions.XMlSerializationException;
 

@@ -1,4 +1,4 @@
-package com.ironman.entity;
+package com.ironman.model;
 
 import java.util.List;
 
